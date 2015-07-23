@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+   
+    android:background="#88666666" 
+    android:id="@+id/TextView01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="This program has been developed for testing the gyroscope sensor:
+     like his behaviour in the various axis.It is most likely to be used in flight simulators or in augmented reality games.">"
+
+</TextView>
